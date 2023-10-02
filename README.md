@@ -16,7 +16,7 @@ This repository is proudly sponsored by [Osirion.gg](https://www.osirion.gg), yo
 4. [color_switch_tile.verse](snippets/color_switch_tile.verse) - Implement color-switching tiles in your map.
 5. [countdown_timer.verse](snippets/countdown_timer.verse) - Add a countdown timer to your Fortnite experience.
 6. [damage.verse](snippets/damage.verse) - Code snippets for handling damage in Fortnite.
-7. [disapear_appear_platform.verse](snippets/disapear_appear_platform.verse) - Create disappearing and appearing platforms.
+7. [disapear_appear_platform.verse](snippets/disappear_appear_platform.verse) - Create disappearing and appearing platforms.
 8. [elimination_game_device.verse](snippets/elimination_game_device.verse) - Implement an elimination game device.
 9. [hello_world_device.verse](snippets/hello_world_device.verse) - A simple "Hello, World!" example for devices.
 10. [marker_displace.verse](snippets/marker_displace.verse) - Code for marker displacement.
