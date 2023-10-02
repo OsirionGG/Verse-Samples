@@ -11,16 +11,16 @@ This repository is proudly sponsored by [Osirion.gg](https://www.osirion.gg), yo
 ## Table of Contents
 
 1. [balance_teams.verse](snippets/balance_teams.verse) - Example of balancing teams in Fortnite.
-2. [buttonpuzzle.verse](snippets/buttonpuzzle.verse) - Implement a button puzzle in your Fortnite map.
-3. [colorswitch_synchronisedtiles.verse](snippets/colorswitch_synchronisedtiles.verse) - Create synchronized color-switching tiles.
-4. [colorswitch_tile.verse](snippets/colorswitch_tile.verse) - Implement color-switching tiles in your map.
+2. [button_puzzle.verse](snippets/button_puzzle.verse) - Implement a button puzzle in your Fortnite map.
+3. [color_switch_synchronisedtiles.verse](snippets/color_switch_synchronisedtiles.verse) - Create synchronized color-switching tiles.
+4. [color_switch_tile.verse](snippets/color_switch_tile.verse) - Implement color-switching tiles in your map.
 5. [countdown_timer.verse](snippets/countdown_timer.verse) - Add a countdown timer to your Fortnite experience.
 6. [damage.verse](snippets/damage.verse) - Code snippets for handling damage in Fortnite.
-7. [dissapear_appear_platform.verse](snippets/dissapear_appear_platform.verse) - Create disappearing and appearing platforms.
+7. [disapear_appear_platform.verse](snippets/disapear_appear_platform.verse) - Create disappearing and appearing platforms.
 8. [elimination_game_device.verse](snippets/elimination_game_device.verse) - Implement an elimination game device.
 9. [hello_world_device.verse](snippets/hello_world_device.verse) - A simple "Hello, World!" example for devices.
 10. [marker_displace.verse](snippets/marker_displace.verse) - Code for marker displacement.
-11. [showui.verse](snippets/showui.verse) - Example of showing UI elements in Fortnite.
+11. [show_ui.verse](snippets/show_ui.verse) - Example of showing UI elements in Fortnite.
 
 Please explore the individual files in this repository for code snippets and examples related to each topic.
 
